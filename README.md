@@ -17,10 +17,10 @@ The Excel workbook demonstrates basic Excel operations and data analysis techniq
 ## 📷 Preview
 
 ### Dataset
-![Dataset](excel_data_preview.png)
+![Dataset](dataset_preview.png)
 
 ### Analysis Result
-![Analysis](excel_analysis_preview.png)
+![Analysis](pivot_analysis.png)
 
 ## 👨‍💻 Author
 Tanmay Chawhan  
