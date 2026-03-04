@@ -14,6 +14,14 @@ The Excel workbook demonstrates basic Excel operations and data analysis techniq
 ## 📁 File Included
 - **Tanmay_Chawhan_anudip_davis_excel_module1.xlsx**
 
+## 📷 Preview
+
+### Dataset
+![Dataset](excel_data_preview.png)
+
+### Analysis Result
+![Analysis](excel_analysis_preview.png)
+
 ## 👨‍💻 Author
 Tanmay Chawhan  
 Computer Engineering – Semester 8
